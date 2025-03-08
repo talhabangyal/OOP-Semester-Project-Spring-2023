@@ -1,0 +1,3 @@
+SE-1,amar,oop,6 may 2023,11 am
+SE-1,amar,hemistry,6 may 2023,1 pm
+SE-1,amar,hyics,6 may 2023,3 45 pm
